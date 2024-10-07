@@ -1,6 +1,6 @@
 <h1>👋 Hi everyone </h1>
 
-<p>I am currently in 1st year of BTS SIO at Caen-Sup Sainte Ursule, specializing into SISR.
+<p>I am currently in 1st year of BTS SIO at Caen-Sup Sainte Ursule, specializing into SISR.</p><p>I'm doing this work-study course with the DGFIP.
 
 
 
