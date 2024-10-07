@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>👋 Hi everyone </h1>
 
-<!--
-**spongebob987/spongebob987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I am currently in 1st year of BTS SIO at Caen-Sup Sainte Ursule, specializing into SISR.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+</p>
+<h2>📚 Education</h2>
+<p>-BTS SIO at CaenSup Sainte-Ursule (2024-Present)</p>
+<p>-STI2D at Intitut Lemonnier (2022-2024)</p>
+
+<h2>🚲 Hobbies </h2>
+
+<p>I like cross-country cycling in my free-time.</p>
+<p>I also like to go outside to walk and visit monuments.</p>
+
+
+
+<h2>📞 Contact </h2>
+<p>Mail : <b>louis.dumontderobert@sts-sio-caen.info</b></p>
